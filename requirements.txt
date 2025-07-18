@@ -1,0 +1,7 @@
+requests
+numpy
+Pillow
+PyQt5
+PyQtWebEngine
+matplotlib
+
